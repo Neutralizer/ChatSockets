@@ -21,8 +21,4 @@ public class HTTPGet{
 	   return result.toString();
    }
 
-//   public static void main(String[] args) throws Exception
-//   {
-//     System.out.println(getHTML("http://localhost:8080/clients"));
-//   }
 }
