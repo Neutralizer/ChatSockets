@@ -1,0 +1,5 @@
+dispatcher\UserService.class
+dispatcher\Controller.class
+dispatcher\ServerBehaviour.class
+dispatcher\User.class
+dispatcher\UserServiceImpl.class
